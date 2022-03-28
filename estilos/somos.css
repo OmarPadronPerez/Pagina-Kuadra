@@ -1,0 +1,32 @@
+#posicion{
+	padding: 15px;
+}
+#posicion img{
+	padding: 13px;
+}
+#jeje{
+	padding: 4%;
+}
+
+#prueva{
+	border: 0px;
+}
+#footer {
+	border-top-color: rgb(0, 0, 0);
+}
+
+#fondColo2 img{
+	width: 50%;
+}
+
+#tarjetas2 img{
+	width: 38%;
+	max-height: 90px;
+}
+#fondColo2{
+	border: rgb(0, 0, 0);
+	background-color: 	rgba(0, 0, 0,0.0);
+}
+.cardImg {
+	margin-top: 20px;
+}

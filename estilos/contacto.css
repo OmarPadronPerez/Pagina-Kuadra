@@ -1,0 +1,37 @@
+#intro{
+    font-size: 20px;
+    font-family: fantasy;
+}
+#formulario{
+    padding-right: 50px;
+}
+#primeraSec{
+    padding-top: 15px;
+    background-image: url(./fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#primeraSec p{
+    font-size: 20px;
+
+}
+#primeraSec h2,#primeraSec label,#primeraSec p{
+    color: black;
+}
+#lineaHori{
+    background-color: black;
+    height: 1px;
+}
+
+@media (max-width: 750px) {
+    #formulario{
+        padding-right: 0px;
+    }
+    #primeraSec,#segundaSec{
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    #primeraSec h2,#primeraSec label,#primeraSec p{
+        color: white;
+    }
+}

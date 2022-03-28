@@ -1,0 +1,129 @@
+#carrucel img{
+    max-height: 600px;
+    width: 100%;
+}
+#carrucel h3{
+	color: #000000;
+}
+#line{
+	width: 100%;
+	display:inline-block;
+	background-color: #000000;
+	position: center;
+	height: 1px;
+}
+@media (max-width: 750px){
+	#carrucel{
+	padding: 0px;
+}
+}
+#carrucel h3{
+	font-size: 20px;
+	color: #000000;
+}
+.borde{border: 1px #000 solid;}
+
+
+#degradado{
+	background-color: 	rgba(169,226,243,0.2);
+}
+
+
+#contenedor h2{
+	color: #000;
+	padding-left: 5px;
+	
+}
+#imagen {
+	margin: auto;
+}
+#contenedor img{
+	width: 100%;
+}
+#cont{
+	background-color: rgba(227,86,86);
+}
+/*
+div#info th{
+	font-size: 2.5vw;
+}
+div#info td{
+	font-size: 3vw;
+}
+*/
+@media screen and (max-width: 1500px) {
+	#info{
+		font-size: 24.3px;
+	}
+}
+@media screen and (max-width: 950px) {
+	#info{
+		font-size: 18.8px;
+	}
+}
+@media screen and (max-width: 700px) {
+	#info{
+		font-size: 18px;
+	}
+}
+@media screen and (max-width: 400px) {
+	#info{
+		font-size: 15px;
+	}
+}
+#table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tabla2 img {
+  border-radius: 100%;
+  width: 40px;
+  height: 38px;
+}
+#tarjetas {
+	width: 98%;
+	height: 28%;
+	padding-left: 6%;
+
+}
+
+#tarjetas img{
+	width: 38%;
+	max-height: 90px;
+}
+#fondColo{
+	background-color: 	rgba(0,0,0,0.0);
+}
+.cardImg {
+	margin-top: 10px;
+}
+
+
+
+@font-face{
+	font-family: matilda;
+	src: url(matilda/Matilda.ttf);
+}
+
+ @font-face{
+ 	font-family: rale;
+ 	src: url(letras/Raleway-Regular.ttf);
+ }
+ @font-face{
+ 	font-family: arizona;
+ 	src: url(letras/Arizonia-Regular.ttf);
+ }
+ @font-face{
+ 	font-family: GreatVibe;
+ 	src: url(letras/GreatVibes-Regular.ttf);
+ }
+ @font-face{
+ 	font-family: Parisienne;
+ 	src: url(letras/Parisienne-Regular.ttf);
+ }
+ @font-face{
+ 	font-family: Srisakdi;
+ 	src: url(letras/Srisakdi-Regular.ttf);
+ }
