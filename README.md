@@ -18,7 +18,7 @@ esta muestra las medidas de estos elementos como los colores y tapizados disponi
 <p align='center'>
 <img align='center' src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/21ddab6c-f75f-4ecd-bb46-582499ff3408" width="430">
 </p>
-<h2>Formulario</h2>
+<h2>Formulario de contacto</h2>
 <p align='center'> 
 <img align='center' src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/1f8aed55-66f0-47eb-80fc-ee88cdc9d3d8" width="430">
 </p>
