@@ -1,7 +1,7 @@
 <h1 align='center'>Muebles Kuadra</h1>
 Landing Page echa para un distribuidor de mobiliario para el hogar
 
-<h2>Index</h2>
+<h2>Inicio</h2>
 <p align='center'>
 <img align='center' src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/9bb354d4-3cc1-4b7f-9fd8-fd48c9a00a2f" width="430">
 </p>
