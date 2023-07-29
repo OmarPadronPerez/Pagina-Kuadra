@@ -11,8 +11,8 @@ En la seccion de destacados se muestran multiples modelos de tanto muebleria com
 esta muestra las medidas de estos elementos como los colores y tapizados disponibles. 
 </p>
 
-<img align='rigth' src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/29335325-ced1-4005-92c0-4c1ce00ab419" width="430">
-<img align='left'  src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/698ce5a9-2b77-452d-9977-c02a0fdce749" width="430">
+<img align='rigth' src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/29335325-ced1-4005-92c0-4c1ce00ab419" width="330">
+<img align='left'  src="https://github.com/OmarPadronPerez/Pagina-Kuadra/assets/87333744/698ce5a9-2b77-452d-9977-c02a0fdce749" width="330">
 
 <h2>Conocenos</h2>
 <p align='center'>
